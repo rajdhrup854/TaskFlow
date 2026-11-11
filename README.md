@@ -50,7 +50,7 @@ No additional third-party Python packages are required.
 
 ### 1. Clone the Repository
 
-    git clone YOUR_GITHUB_REPOSITORY_URL
+    git clone https://github.com/rajdhrup854/TaskFlow.git
 
 ### 2. Open the Project Folder
 
